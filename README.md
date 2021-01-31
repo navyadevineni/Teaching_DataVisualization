@@ -1,1 +1,1 @@
-# Teaching_DataVisualization
+# DataVisualization
